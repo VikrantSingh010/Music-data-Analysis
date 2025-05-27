@@ -1,0 +1,1001 @@
+survey_id,user_id,favorite_genre,preferred_instrument,listening_frequency,survey_date
+1,96,Electronic,Trumpet,Occasionally,2024-05-14
+2,27,Rock,Piano,Rarely,2024-01-01
+3,118,Jazz,Guitar,Daily,2024-10-24
+4,270,Classical,Trumpet,Never,2024-04-28
+5,48,Classical,Saxophone,Rarely,2024-03-27
+6,362,Hip Hop,Saxophone,Occasionally,2024-02-05
+7,355,Hip Hop,Guitar,Weekly,2024-03-12
+8,466,Jazz,Saxophone,Rarely,2024-06-04
+9,155,Pop,Flute,Weekly,2024-08-03
+10,263,Pop,Trumpet,Weekly,2024-01-18
+11,245,Jazz,Trumpet,Weekly,2024-08-17
+12,14,Pop,Violin,Never,2024-06-22
+13,134,Pop,Guitar,Daily,2024-11-10
+14,244,Hip Hop,Drums,Daily,2024-06-01
+15,32,Hip Hop,Flute,Daily,2024-07-04
+16,399,Hip Hop,Trumpet,Occasionally,2024-03-28
+17,87,Hip Hop,Trumpet,Daily,2024-11-05
+18,526,Classical,Piano,Daily,2024-05-05
+19,319,Electronic,Guitar,Weekly,2024-06-22
+20,131,Rock,Trumpet,Occasionally,2024-04-12
+21,314,Classical,Flute,Occasionally,2024-08-05
+22,1,Hip Hop,Drums,Weekly,2024-07-29
+23,402,Electronic,Piano,Weekly,2024-07-25
+24,226,Classical,Saxophone,Weekly,2024-09-13
+25,307,Rock,Flute,Rarely,2024-03-16
+26,112,Rock,Guitar,Weekly,2024-10-22
+27,427,Country,Guitar,Occasionally,2024-06-19
+28,510,Electronic,Guitar,Occasionally,2024-11-11
+29,460,Country,Guitar,Rarely,2024-05-21
+30,440,Jazz,Piano,Never,2024-04-01
+31,539,Electronic,Piano,Rarely,2024-10-05
+32,106,Rock,Drums,Rarely,2024-07-11
+33,484,Jazz,Drums,Rarely,2024-06-30
+34,215,Rock,Violin,Never,2024-02-15
+35,253,Rock,Piano,Never,2024-01-04
+36,527,Rock,Piano,Rarely,2024-02-09
+37,434,Classical,Guitar,Weekly,2024-06-07
+38,266,Pop,Drums,Never,2024-02-03
+39,334,Hip Hop,Drums,Daily,2024-04-23
+40,213,Hip Hop,Saxophone,Occasionally,2024-07-10
+41,413,Jazz,Violin,Daily,2024-09-04
+42,91,Rock,Flute,Daily,2024-01-24
+43,165,Electronic,Violin,Rarely,2024-08-25
+44,230,Pop,Piano,Weekly,2024-04-05
+45,233,Classical,Piano,Rarely,2024-02-15
+46,435,Electronic,Piano,Weekly,2024-09-15
+47,260,Classical,Saxophone,Weekly,2024-01-07
+48,125,Pop,Guitar,Daily,2024-09-28
+49,267,Pop,Trumpet,Rarely,2024-09-08
+50,273,Rock,Guitar,Weekly,2024-02-25
+51,160,Pop,Guitar,Daily,2024-07-25
+52,406,Hip Hop,Piano,Occasionally,2024-08-20
+53,541,Electronic,Saxophone,Occasionally,2024-07-20
+54,53,Country,Saxophone,Weekly,2024-05-31
+55,276,Classical,Trumpet,Daily,2024-08-31
+56,225,Rock,Violin,Weekly,2024-05-19
+57,213,Rock,Piano,Rarely,2024-06-15
+58,156,Rock,Guitar,Never,2024-06-08
+59,541,Jazz,Flute,Occasionally,2024-07-03
+60,291,Electronic,Violin,Never,2024-05-09
+61,521,Electronic,Violin,Occasionally,2024-10-27
+62,173,Hip Hop,Violin,Daily,2024-05-03
+63,527,Classical,Violin,Daily,2024-05-14
+64,388,Pop,Violin,Never,2024-10-25
+65,254,Jazz,Violin,Rarely,2024-04-07
+66,491,Hip Hop,Drums,Daily,2024-01-08
+67,486,Rock,Drums,Daily,2024-01-16
+68,138,Jazz,Drums,Occasionally,2024-09-17
+69,428,Jazz,Drums,Weekly,2024-10-24
+70,234,Classical,Drums,Never,2024-06-23
+71,145,Electronic,Trumpet,Rarely,2024-09-11
+72,7,Country,Drums,Occasionally,2024-05-20
+73,421,Electronic,Trumpet,Weekly,2024-06-13
+74,295,Electronic,Piano,Never,2024-04-15
+75,354,Electronic,Piano,Never,2024-02-08
+76,321,Electronic,Drums,Never,2024-11-09
+77,73,Classical,Saxophone,Never,2024-09-26
+78,547,Country,Violin,Weekly,2024-03-26
+79,217,Country,Piano,Never,2024-08-14
+80,513,Country,Violin,Daily,2024-01-20
+81,290,Country,Trumpet,Weekly,2024-03-06
+82,388,Jazz,Guitar,Never,2024-04-24
+83,348,Classical,Guitar,Occasionally,2024-03-02
+84,61,Classical,Trumpet,Daily,2024-08-16
+85,321,Classical,Flute,Daily,2024-11-08
+86,209,Classical,Piano,Occasionally,2024-03-11
+87,466,Pop,Piano,Weekly,2024-11-09
+88,424,Pop,Piano,Weekly,2024-06-23
+89,176,Classical,Guitar,Occasionally,2024-03-02
+90,177,Pop,Flute,Weekly,2024-02-20
+91,34,Hip Hop,Drums,Rarely,2024-06-15
+92,274,Classical,Drums,Rarely,2024-03-31
+93,277,Country,Drums,Daily,2024-04-21
+94,132,Classical,Saxophone,Occasionally,2024-03-19
+95,14,Classical,Piano,Rarely,2024-07-10
+96,482,Hip Hop,Trumpet,Daily,2024-04-09
+97,31,Jazz,Saxophone,Rarely,2024-10-08
+98,558,Electronic,Violin,Daily,2024-02-12
+99,167,Electronic,Drums,Daily,2024-02-12
+100,87,Hip Hop,Guitar,Rarely,2024-08-17
+101,325,Electronic,Saxophone,Daily,2024-08-17
+102,53,Rock,Drums,Occasionally,2024-03-08
+103,136,Hip Hop,Guitar,Rarely,2024-02-23
+104,202,Rock,Violin,Daily,2024-03-29
+105,528,Pop,Flute,Weekly,2024-07-09
+106,62,Classical,Drums,Weekly,2024-06-30
+107,389,Country,Trumpet,Daily,2024-07-09
+108,237,Electronic,Drums,Occasionally,2024-01-25
+109,9,Jazz,Trumpet,Weekly,2024-03-19
+110,490,Classical,Violin,Occasionally,2024-10-11
+111,280,Country,Saxophone,Rarely,2024-10-11
+112,486,Country,Violin,Never,2024-05-07
+113,426,Jazz,Flute,Rarely,2024-08-16
+114,49,Country,Flute,Rarely,2024-06-17
+115,554,Country,Drums,Weekly,2024-11-04
+116,146,Classical,Drums,Daily,2024-04-13
+117,29,Electronic,Violin,Never,2024-04-11
+118,26,Jazz,Flute,Weekly,2024-11-13
+119,322,Rock,Saxophone,Never,2024-05-26
+120,173,Country,Trumpet,Rarely,2024-11-08
+121,21,Jazz,Trumpet,Occasionally,2024-01-10
+122,523,Rock,Trumpet,Daily,2024-03-08
+123,547,Jazz,Drums,Rarely,2024-06-04
+124,157,Rock,Flute,Occasionally,2024-01-04
+125,102,Classical,Violin,Occasionally,2024-05-16
+126,212,Country,Trumpet,Weekly,2024-07-15
+127,303,Electronic,Drums,Occasionally,2024-10-13
+128,358,Electronic,Drums,Weekly,2024-05-08
+129,22,Hip Hop,Violin,Never,2024-02-07
+130,93,Rock,Guitar,Rarely,2024-03-05
+131,471,Hip Hop,Piano,Rarely,2024-01-15
+132,484,Classical,Piano,Occasionally,2024-02-14
+133,166,Classical,Drums,Occasionally,2024-10-06
+134,254,Rock,Violin,Weekly,2024-06-16
+135,346,Country,Piano,Rarely,2024-03-04
+136,462,Electronic,Trumpet,Never,2024-09-17
+137,350,Jazz,Trumpet,Occasionally,2024-10-31
+138,1,Electronic,Piano,Never,2024-06-20
+139,505,Pop,Guitar,Never,2024-11-12
+140,40,Classical,Trumpet,Daily,2024-06-23
+141,394,Electronic,Piano,Weekly,2024-07-05
+142,534,Hip Hop,Saxophone,Rarely,2024-08-16
+143,82,Classical,Drums,Occasionally,2024-09-01
+144,400,Hip Hop,Trumpet,Never,2024-09-15
+145,75,Country,Saxophone,Occasionally,2024-02-03
+146,61,Electronic,Saxophone,Never,2024-07-31
+147,447,Electronic,Saxophone,Weekly,2024-02-01
+148,84,Electronic,Trumpet,Daily,2024-08-07
+149,136,Electronic,Piano,Never,2024-06-18
+150,33,Jazz,Drums,Rarely,2024-06-25
+151,256,Classical,Flute,Rarely,2024-02-08
+152,325,Classical,Guitar,Weekly,2024-10-05
+153,63,Country,Saxophone,Daily,2024-01-16
+154,422,Electronic,Guitar,Daily,2024-08-06
+155,37,Country,Drums,Weekly,2024-10-25
+156,364,Rock,Flute,Never,2024-01-05
+157,164,Jazz,Guitar,Occasionally,2024-08-17
+158,108,Hip Hop,Violin,Occasionally,2024-08-03
+159,499,Country,Violin,Occasionally,2024-02-13
+160,121,Pop,Violin,Occasionally,2024-03-11
+161,252,Country,Flute,Never,2024-08-06
+162,169,Rock,Piano,Never,2024-03-22
+163,516,Classical,Guitar,Weekly,2024-11-10
+164,71,Country,Piano,Never,2024-02-08
+165,470,Classical,Violin,Weekly,2024-09-18
+166,290,Jazz,Flute,Weekly,2024-03-09
+167,137,Jazz,Flute,Rarely,2024-03-28
+168,496,Electronic,Trumpet,Rarely,2024-02-16
+169,296,Jazz,Flute,Rarely,2024-04-08
+170,12,Pop,Drums,Weekly,2024-07-22
+171,102,Pop,Flute,Occasionally,2024-01-15
+172,341,Country,Flute,Rarely,2024-04-20
+173,366,Classical,Violin,Weekly,2024-06-03
+174,412,Hip Hop,Saxophone,Weekly,2024-01-22
+175,389,Rock,Drums,Never,2024-06-25
+176,393,Pop,Piano,Occasionally,2024-08-08
+177,154,Jazz,Saxophone,Rarely,2024-05-11
+178,86,Rock,Saxophone,Never,2024-09-04
+179,110,Rock,Guitar,Occasionally,2024-08-14
+180,338,Electronic,Saxophone,Weekly,2024-06-05
+181,56,Pop,Violin,Occasionally,2024-10-14
+182,109,Electronic,Flute,Rarely,2024-06-29
+183,220,Hip Hop,Drums,Occasionally,2024-03-07
+184,454,Pop,Guitar,Occasionally,2024-09-26
+185,193,Rock,Drums,Never,2024-04-11
+186,484,Jazz,Saxophone,Occasionally,2024-08-22
+187,492,Electronic,Saxophone,Daily,2024-09-22
+188,122,Pop,Violin,Occasionally,2024-07-08
+189,369,Country,Trumpet,Never,2024-04-07
+190,414,Classical,Guitar,Weekly,2024-05-14
+191,204,Hip Hop,Saxophone,Daily,2024-08-30
+192,130,Classical,Guitar,Occasionally,2024-03-01
+193,29,Country,Piano,Daily,2024-06-15
+194,230,Pop,Flute,Weekly,2024-06-26
+195,441,Classical,Flute,Daily,2024-08-11
+196,525,Electronic,Violin,Rarely,2024-06-26
+197,346,Rock,Saxophone,Daily,2024-09-14
+198,203,Classical,Drums,Never,2024-04-06
+199,533,Jazz,Guitar,Rarely,2024-06-01
+200,536,Hip Hop,Piano,Rarely,2024-06-10
+201,504,Rock,Trumpet,Daily,2024-08-27
+202,501,Electronic,Saxophone,Weekly,2024-08-06
+203,93,Classical,Piano,Never,2024-07-23
+204,66,Jazz,Violin,Daily,2024-06-29
+205,459,Country,Violin,Daily,2024-06-13
+206,60,Country,Violin,Never,2024-04-16
+207,230,Country,Flute,Rarely,2024-01-28
+208,358,Pop,Saxophone,Never,2024-08-10
+209,387,Rock,Piano,Never,2024-10-03
+210,296,Electronic,Saxophone,Occasionally,2024-09-17
+211,362,Pop,Guitar,Never,2024-10-02
+212,389,Country,Flute,Rarely,2024-05-02
+213,7,Country,Drums,Occasionally,2024-09-04
+214,383,Hip Hop,Flute,Weekly,2024-08-25
+215,299,Classical,Violin,Rarely,2024-08-08
+216,278,Electronic,Violin,Occasionally,2024-02-16
+217,400,Country,Flute,Occasionally,2024-01-02
+218,203,Rock,Violin,Never,2024-05-04
+219,407,Hip Hop,Piano,Rarely,2024-02-20
+220,343,Rock,Saxophone,Rarely,2024-06-02
+221,384,Electronic,Flute,Daily,2024-03-11
+222,182,Country,Drums,Daily,2024-09-22
+223,28,Country,Saxophone,Never,2024-03-06
+224,20,Classical,Trumpet,Daily,2024-02-23
+225,398,Classical,Drums,Never,2024-10-26
+226,75,Classical,Saxophone,Daily,2024-04-25
+227,339,Hip Hop,Drums,Occasionally,2024-06-13
+228,277,Pop,Drums,Rarely,2024-04-09
+229,80,Classical,Flute,Daily,2024-03-20
+230,97,Country,Saxophone,Rarely,2024-03-28
+231,303,Rock,Piano,Rarely,2024-05-04
+232,535,Classical,Violin,Never,2024-03-30
+233,29,Pop,Flute,Rarely,2024-01-05
+234,507,Rock,Guitar,Occasionally,2024-11-01
+235,109,Classical,Violin,Never,2024-06-13
+236,49,Classical,Violin,Occasionally,2024-02-16
+237,416,Pop,Piano,Daily,2024-04-12
+238,492,Hip Hop,Violin,Never,2024-05-05
+239,224,Electronic,Piano,Weekly,2024-02-07
+240,496,Electronic,Trumpet,Rarely,2024-01-30
+241,93,Jazz,Flute,Weekly,2024-02-04
+242,156,Rock,Violin,Rarely,2024-01-11
+243,310,Rock,Trumpet,Never,2024-10-11
+244,517,Electronic,Saxophone,Weekly,2024-04-10
+245,337,Rock,Trumpet,Daily,2024-08-10
+246,420,Hip Hop,Saxophone,Occasionally,2024-01-27
+247,192,Pop,Trumpet,Never,2024-04-02
+248,157,Classical,Piano,Never,2024-06-26
+249,26,Pop,Trumpet,Daily,2024-10-10
+250,502,Hip Hop,Trumpet,Rarely,2024-02-12
+251,372,Pop,Saxophone,Occasionally,2024-05-28
+252,317,Classical,Trumpet,Never,2024-01-03
+253,91,Rock,Trumpet,Occasionally,2024-03-29
+254,40,Classical,Saxophone,Weekly,2024-02-16
+255,255,Country,Guitar,Occasionally,2024-07-02
+256,529,Pop,Drums,Never,2024-06-02
+257,106,Electronic,Piano,Occasionally,2024-08-23
+258,194,Pop,Guitar,Weekly,2024-02-22
+259,17,Pop,Drums,Never,2024-10-04
+260,457,Pop,Guitar,Daily,2024-06-07
+261,138,Jazz,Guitar,Daily,2024-05-30
+262,444,Classical,Guitar,Rarely,2024-05-26
+263,118,Electronic,Trumpet,Rarely,2024-01-16
+264,133,Electronic,Drums,Weekly,2024-01-06
+265,436,Pop,Drums,Never,2024-10-07
+266,299,Hip Hop,Violin,Never,2024-07-18
+267,491,Classical,Saxophone,Weekly,2024-11-12
+268,206,Hip Hop,Guitar,Daily,2024-07-25
+269,534,Country,Flute,Occasionally,2024-05-24
+270,212,Electronic,Guitar,Occasionally,2024-03-09
+271,48,Jazz,Violin,Occasionally,2024-09-30
+272,303,Jazz,Trumpet,Rarely,2024-01-31
+273,319,Hip Hop,Violin,Weekly,2024-11-09
+274,212,Pop,Violin,Weekly,2024-10-10
+275,534,Electronic,Piano,Rarely,2024-10-04
+276,359,Electronic,Violin,Rarely,2024-01-01
+277,489,Pop,Flute,Occasionally,2024-10-11
+278,442,Jazz,Flute,Occasionally,2024-11-11
+279,445,Classical,Trumpet,Daily,2024-10-18
+280,371,Pop,Drums,Daily,2024-05-26
+281,346,Country,Guitar,Weekly,2024-05-29
+282,65,Jazz,Guitar,Never,2024-09-12
+283,83,Hip Hop,Piano,Daily,2024-06-13
+284,418,Pop,Trumpet,Weekly,2024-08-26
+285,551,Hip Hop,Trumpet,Weekly,2024-05-12
+286,11,Hip Hop,Violin,Occasionally,2024-07-08
+287,517,Country,Flute,Rarely,2024-03-02
+288,348,Classical,Drums,Occasionally,2024-05-06
+289,191,Country,Trumpet,Rarely,2024-10-13
+290,540,Pop,Saxophone,Occasionally,2024-05-26
+291,389,Rock,Guitar,Never,2024-07-28
+292,26,Classical,Flute,Occasionally,2024-08-03
+293,474,Rock,Saxophone,Weekly,2024-05-21
+294,436,Country,Drums,Daily,2024-09-13
+295,36,Jazz,Violin,Occasionally,2024-03-07
+296,467,Jazz,Saxophone,Daily,2024-01-02
+297,331,Hip Hop,Violin,Weekly,2024-05-09
+298,87,Electronic,Saxophone,Daily,2024-11-10
+299,174,Jazz,Trumpet,Never,2024-02-08
+300,503,Rock,Drums,Never,2024-09-29
+301,455,Country,Violin,Daily,2024-04-29
+302,58,Country,Piano,Rarely,2024-02-11
+303,183,Electronic,Drums,Weekly,2024-01-24
+304,305,Classical,Flute,Occasionally,2024-04-16
+305,484,Country,Flute,Weekly,2024-08-21
+306,44,Country,Guitar,Weekly,2024-01-22
+307,261,Pop,Trumpet,Daily,2024-06-05
+308,213,Pop,Saxophone,Never,2024-10-17
+309,521,Classical,Violin,Rarely,2024-10-22
+310,169,Country,Drums,Never,2024-06-29
+311,482,Rock,Drums,Rarely,2024-10-19
+312,225,Rock,Saxophone,Weekly,2024-07-04
+313,298,Rock,Saxophone,Weekly,2024-04-20
+314,369,Classical,Piano,Never,2024-10-20
+315,297,Electronic,Guitar,Occasionally,2024-09-30
+316,34,Jazz,Trumpet,Never,2024-04-10
+317,515,Rock,Saxophone,Weekly,2024-08-12
+318,260,Electronic,Guitar,Never,2024-07-01
+319,54,Country,Piano,Never,2024-10-29
+320,312,Jazz,Trumpet,Weekly,2024-09-30
+321,175,Jazz,Saxophone,Rarely,2024-03-11
+322,136,Country,Drums,Daily,2024-04-30
+323,190,Pop,Drums,Occasionally,2024-07-24
+324,46,Classical,Violin,Occasionally,2024-01-06
+325,162,Electronic,Guitar,Weekly,2024-02-24
+326,88,Hip Hop,Guitar,Rarely,2024-01-31
+327,378,Classical,Piano,Weekly,2024-10-15
+328,421,Country,Drums,Occasionally,2024-03-14
+329,237,Pop,Guitar,Never,2024-03-04
+330,320,Country,Flute,Weekly,2024-08-19
+331,268,Classical,Piano,Occasionally,2024-04-13
+332,363,Country,Violin,Weekly,2024-09-16
+333,276,Rock,Violin,Weekly,2024-02-05
+334,475,Classical,Saxophone,Rarely,2024-03-17
+335,387,Rock,Piano,Daily,2024-04-25
+336,425,Hip Hop,Guitar,Occasionally,2024-09-16
+337,283,Hip Hop,Trumpet,Never,2024-02-10
+338,361,Rock,Saxophone,Daily,2024-09-17
+339,117,Jazz,Flute,Weekly,2024-07-17
+340,360,Hip Hop,Drums,Never,2024-07-05
+341,117,Electronic,Trumpet,Weekly,2024-10-27
+342,435,Country,Trumpet,Occasionally,2024-11-12
+343,324,Hip Hop,Drums,Never,2024-04-07
+344,493,Jazz,Saxophone,Never,2024-09-28
+345,268,Electronic,Flute,Daily,2024-01-06
+346,509,Rock,Drums,Rarely,2024-10-18
+347,60,Electronic,Piano,Occasionally,2024-03-02
+348,233,Rock,Guitar,Rarely,2024-04-15
+349,530,Electronic,Flute,Rarely,2024-01-09
+350,269,Classical,Guitar,Weekly,2024-10-21
+351,28,Pop,Violin,Occasionally,2024-11-13
+352,266,Electronic,Guitar,Rarely,2024-06-01
+353,390,Rock,Guitar,Never,2024-11-09
+354,494,Country,Piano,Occasionally,2024-09-29
+355,417,Rock,Drums,Daily,2024-06-16
+356,319,Electronic,Drums,Weekly,2024-04-19
+357,550,Electronic,Violin,Never,2024-03-01
+358,437,Pop,Flute,Never,2024-01-21
+359,311,Pop,Guitar,Occasionally,2024-08-15
+360,558,Country,Piano,Occasionally,2024-05-30
+361,298,Pop,Drums,Daily,2024-05-16
+362,438,Country,Drums,Never,2024-02-16
+363,345,Jazz,Saxophone,Weekly,2024-07-03
+364,431,Jazz,Saxophone,Weekly,2024-01-16
+365,301,Hip Hop,Violin,Rarely,2024-08-28
+366,44,Electronic,Trumpet,Never,2024-10-11
+367,215,Electronic,Drums,Never,2024-05-24
+368,180,Classical,Saxophone,Weekly,2024-03-03
+369,165,Pop,Flute,Occasionally,2024-09-11
+370,151,Country,Drums,Weekly,2024-07-22
+371,316,Electronic,Saxophone,Rarely,2024-07-19
+372,16,Pop,Trumpet,Daily,2024-07-16
+373,270,Country,Trumpet,Weekly,2024-06-08
+374,474,Jazz,Drums,Daily,2024-02-13
+375,221,Electronic,Drums,Daily,2024-08-03
+376,371,Electronic,Violin,Weekly,2024-06-28
+377,429,Electronic,Piano,Rarely,2024-07-01
+378,544,Pop,Flute,Daily,2024-01-26
+379,177,Jazz,Drums,Rarely,2024-05-07
+380,348,Electronic,Drums,Daily,2024-04-18
+381,6,Hip Hop,Guitar,Rarely,2024-04-10
+382,200,Jazz,Guitar,Daily,2024-08-03
+383,466,Country,Drums,Daily,2024-04-20
+384,285,Hip Hop,Violin,Occasionally,2024-08-06
+385,554,Hip Hop,Drums,Weekly,2024-10-22
+386,354,Pop,Trumpet,Rarely,2024-04-06
+387,386,Hip Hop,Violin,Rarely,2024-03-26
+388,204,Jazz,Piano,Rarely,2024-08-16
+389,436,Electronic,Violin,Occasionally,2024-05-03
+390,303,Classical,Drums,Never,2024-07-04
+391,406,Rock,Piano,Daily,2024-04-11
+392,413,Jazz,Violin,Never,2024-03-21
+393,445,Jazz,Violin,Never,2024-06-28
+394,190,Electronic,Saxophone,Occasionally,2024-09-08
+395,546,Country,Piano,Weekly,2024-08-21
+396,68,Electronic,Guitar,Weekly,2024-03-20
+397,32,Classical,Piano,Weekly,2024-06-07
+398,207,Jazz,Piano,Never,2024-05-03
+399,408,Electronic,Flute,Weekly,2024-03-05
+400,524,Hip Hop,Trumpet,Never,2024-01-03
+401,502,Electronic,Violin,Rarely,2024-08-29
+402,274,Rock,Piano,Daily,2024-06-30
+403,346,Classical,Violin,Daily,2024-09-07
+404,502,Electronic,Drums,Weekly,2024-03-26
+405,377,Rock,Saxophone,Rarely,2024-01-01
+406,168,Country,Drums,Rarely,2024-04-26
+407,454,Country,Guitar,Rarely,2024-01-01
+408,250,Pop,Saxophone,Occasionally,2024-07-27
+409,529,Electronic,Guitar,Occasionally,2024-07-06
+410,437,Hip Hop,Drums,Weekly,2024-07-11
+411,522,Rock,Saxophone,Never,2024-09-28
+412,315,Jazz,Drums,Never,2024-10-01
+413,16,Pop,Drums,Never,2024-09-29
+414,387,Rock,Piano,Rarely,2024-02-14
+415,19,Country,Guitar,Daily,2024-11-12
+416,547,Electronic,Violin,Never,2024-09-07
+417,97,Jazz,Trumpet,Occasionally,2024-06-05
+418,8,Rock,Saxophone,Rarely,2024-04-02
+419,384,Rock,Guitar,Occasionally,2024-09-14
+420,234,Pop,Guitar,Never,2024-06-25
+421,288,Classical,Drums,Rarely,2024-10-19
+422,220,Rock,Piano,Occasionally,2024-01-28
+423,198,Country,Piano,Rarely,2024-10-18
+424,162,Classical,Saxophone,Never,2024-09-20
+425,425,Classical,Piano,Daily,2024-04-30
+426,201,Electronic,Flute,Daily,2024-10-04
+427,108,Pop,Guitar,Daily,2024-03-30
+428,95,Hip Hop,Flute,Weekly,2024-10-04
+429,525,Rock,Piano,Rarely,2024-01-19
+430,9,Classical,Drums,Occasionally,2024-10-09
+431,344,Electronic,Flute,Never,2024-02-04
+432,364,Hip Hop,Trumpet,Weekly,2024-04-03
+433,334,Country,Drums,Rarely,2024-10-19
+434,483,Pop,Guitar,Occasionally,2024-07-05
+435,471,Hip Hop,Guitar,Rarely,2024-05-12
+436,203,Pop,Violin,Occasionally,2024-04-18
+437,248,Hip Hop,Flute,Rarely,2024-04-22
+438,185,Hip Hop,Saxophone,Rarely,2024-01-28
+439,86,Classical,Drums,Rarely,2024-07-11
+440,516,Country,Saxophone,Occasionally,2024-09-21
+441,179,Electronic,Guitar,Occasionally,2024-10-10
+442,116,Pop,Saxophone,Rarely,2024-05-20
+443,12,Country,Drums,Daily,2024-05-27
+444,553,Rock,Violin,Rarely,2024-08-25
+445,176,Rock,Saxophone,Occasionally,2024-02-28
+446,225,Rock,Piano,Rarely,2024-06-03
+447,410,Jazz,Violin,Never,2024-01-28
+448,84,Classical,Trumpet,Never,2024-06-01
+449,13,Country,Flute,Occasionally,2024-06-16
+450,62,Jazz,Violin,Daily,2024-01-25
+451,262,Pop,Flute,Rarely,2024-05-29
+452,459,Rock,Piano,Weekly,2024-08-26
+453,205,Classical,Guitar,Occasionally,2024-02-06
+454,510,Classical,Drums,Occasionally,2024-09-21
+455,366,Rock,Trumpet,Occasionally,2024-11-11
+456,247,Pop,Drums,Rarely,2024-10-25
+457,365,Jazz,Saxophone,Never,2024-05-18
+458,19,Jazz,Guitar,Never,2024-04-21
+459,438,Classical,Trumpet,Never,2024-01-23
+460,530,Classical,Guitar,Rarely,2024-05-28
+461,149,Hip Hop,Piano,Weekly,2024-03-15
+462,477,Jazz,Violin,Daily,2024-10-25
+463,221,Rock,Saxophone,Rarely,2024-04-02
+464,97,Electronic,Violin,Rarely,2024-05-11
+465,108,Pop,Trumpet,Never,2024-06-03
+466,500,Electronic,Saxophone,Never,2024-07-28
+467,548,Jazz,Flute,Weekly,2024-09-25
+468,415,Pop,Flute,Occasionally,2024-07-29
+469,523,Country,Trumpet,Never,2024-08-30
+470,323,Electronic,Violin,Occasionally,2024-01-29
+471,506,Rock,Trumpet,Occasionally,2024-02-22
+472,263,Pop,Piano,Never,2024-07-17
+473,547,Country,Violin,Weekly,2024-04-10
+474,186,Jazz,Flute,Rarely,2024-11-05
+475,300,Country,Flute,Never,2024-08-13
+476,480,Electronic,Trumpet,Rarely,2024-02-11
+477,280,Electronic,Flute,Daily,2024-05-09
+478,497,Rock,Flute,Daily,2024-09-03
+479,173,Country,Drums,Never,2024-09-22
+480,332,Country,Trumpet,Weekly,2024-11-13
+481,91,Classical,Piano,Daily,2024-09-02
+482,477,Pop,Trumpet,Occasionally,2024-07-26
+483,348,Pop,Violin,Never,2024-08-15
+484,97,Hip Hop,Guitar,Rarely,2024-11-12
+485,188,Country,Guitar,Weekly,2024-01-09
+486,199,Pop,Violin,Never,2024-03-04
+487,355,Classical,Drums,Rarely,2024-10-22
+488,359,Country,Guitar,Rarely,2024-08-07
+489,507,Country,Violin,Occasionally,2024-09-01
+490,84,Hip Hop,Violin,Weekly,2024-07-31
+491,212,Rock,Violin,Rarely,2024-04-04
+492,508,Rock,Trumpet,Never,2024-02-25
+493,289,Country,Flute,Never,2024-02-09
+494,21,Hip Hop,Guitar,Never,2024-07-04
+495,208,Classical,Flute,Rarely,2024-08-09
+496,530,Pop,Piano,Rarely,2024-10-16
+497,156,Classical,Drums,Never,2024-11-01
+498,236,Electronic,Guitar,Occasionally,2024-01-13
+499,29,Country,Violin,Never,2024-01-28
+500,491,Hip Hop,Trumpet,Daily,2024-06-26
+501,101,Rock,Guitar,Rarely,2024-11-04
+502,9,Pop,Drums,Weekly,2024-02-16
+503,337,Electronic,Flute,Rarely,2024-05-25
+504,109,Rock,Trumpet,Occasionally,2024-08-19
+505,530,Jazz,Saxophone,Never,2024-07-27
+506,494,Pop,Guitar,Occasionally,2024-09-19
+507,416,Jazz,Drums,Weekly,2024-08-02
+508,415,Hip Hop,Violin,Daily,2024-08-15
+509,214,Hip Hop,Violin,Weekly,2024-05-17
+510,406,Hip Hop,Trumpet,Occasionally,2024-10-02
+511,99,Country,Violin,Rarely,2024-01-10
+512,126,Country,Drums,Rarely,2024-02-08
+513,515,Classical,Piano,Daily,2024-02-05
+514,331,Pop,Piano,Rarely,2024-06-06
+515,521,Hip Hop,Trumpet,Occasionally,2024-02-29
+516,371,Pop,Trumpet,Occasionally,2024-07-10
+517,44,Rock,Saxophone,Daily,2024-05-28
+518,194,Hip Hop,Violin,Rarely,2024-03-15
+519,438,Rock,Saxophone,Never,2024-01-18
+520,533,Rock,Flute,Weekly,2024-02-25
+521,179,Jazz,Saxophone,Daily,2024-06-22
+522,481,Classical,Piano,Daily,2024-07-27
+523,414,Country,Trumpet,Never,2024-02-22
+524,434,Pop,Trumpet,Daily,2024-10-08
+525,220,Electronic,Trumpet,Rarely,2024-01-29
+526,228,Rock,Trumpet,Rarely,2024-02-09
+527,188,Country,Drums,Never,2024-05-09
+528,273,Hip Hop,Trumpet,Never,2024-04-28
+529,301,Country,Piano,Weekly,2024-03-21
+530,156,Rock,Flute,Rarely,2024-10-06
+531,306,Jazz,Saxophone,Occasionally,2024-05-21
+532,497,Pop,Saxophone,Weekly,2024-03-30
+533,217,Classical,Violin,Occasionally,2024-01-16
+534,363,Rock,Saxophone,Daily,2024-01-30
+535,506,Jazz,Piano,Never,2024-10-18
+536,530,Hip Hop,Trumpet,Occasionally,2024-10-17
+537,139,Pop,Piano,Never,2024-05-26
+538,398,Jazz,Piano,Weekly,2024-06-15
+539,524,Rock,Piano,Occasionally,2024-07-06
+540,317,Pop,Trumpet,Rarely,2024-10-28
+541,352,Jazz,Guitar,Occasionally,2024-05-15
+542,441,Country,Drums,Daily,2024-05-18
+543,440,Classical,Guitar,Rarely,2024-08-21
+544,311,Rock,Trumpet,Occasionally,2024-03-16
+545,400,Electronic,Saxophone,Weekly,2024-10-09
+546,206,Pop,Guitar,Occasionally,2024-04-22
+547,450,Pop,Guitar,Rarely,2024-05-15
+548,266,Classical,Drums,Rarely,2024-04-22
+549,246,Jazz,Violin,Weekly,2024-08-31
+550,513,Electronic,Flute,Weekly,2024-01-11
+551,220,Pop,Saxophone,Occasionally,2024-06-29
+552,318,Jazz,Guitar,Rarely,2024-01-09
+553,46,Country,Saxophone,Never,2024-02-24
+554,194,Hip Hop,Trumpet,Daily,2024-02-03
+555,465,Pop,Guitar,Weekly,2024-10-29
+556,398,Rock,Flute,Never,2024-11-05
+557,173,Classical,Trumpet,Daily,2024-05-17
+558,6,Country,Flute,Occasionally,2024-08-03
+559,537,Pop,Saxophone,Occasionally,2024-05-10
+560,510,Electronic,Flute,Occasionally,2024-02-27
+561,419,Jazz,Flute,Rarely,2024-07-13
+562,53,Classical,Trumpet,Weekly,2024-04-07
+563,402,Hip Hop,Drums,Weekly,2024-08-09
+564,120,Country,Piano,Rarely,2024-05-12
+565,303,Electronic,Guitar,Weekly,2024-07-28
+566,82,Rock,Saxophone,Daily,2024-02-02
+567,195,Country,Guitar,Weekly,2024-05-16
+568,552,Jazz,Violin,Daily,2024-08-10
+569,537,Electronic,Guitar,Rarely,2024-01-03
+570,12,Country,Violin,Rarely,2024-08-11
+571,470,Pop,Violin,Occasionally,2024-11-13
+572,53,Electronic,Violin,Occasionally,2024-09-03
+573,29,Electronic,Trumpet,Rarely,2024-11-06
+574,174,Country,Violin,Weekly,2024-03-03
+575,509,Pop,Piano,Occasionally,2024-05-18
+576,107,Pop,Flute,Occasionally,2024-06-06
+577,508,Jazz,Piano,Occasionally,2024-06-02
+578,152,Pop,Trumpet,Weekly,2024-04-22
+579,232,Classical,Drums,Occasionally,2024-02-21
+580,278,Pop,Violin,Weekly,2024-05-28
+581,261,Pop,Guitar,Daily,2024-08-14
+582,345,Jazz,Guitar,Daily,2024-08-08
+583,548,Country,Violin,Never,2024-03-04
+584,143,Electronic,Saxophone,Rarely,2024-06-11
+585,88,Pop,Drums,Occasionally,2024-02-01
+586,98,Hip Hop,Drums,Daily,2024-03-04
+587,325,Electronic,Piano,Occasionally,2024-10-30
+588,466,Electronic,Drums,Never,2024-09-13
+589,97,Rock,Saxophone,Occasionally,2024-11-10
+590,121,Electronic,Flute,Weekly,2024-08-08
+591,515,Pop,Saxophone,Rarely,2024-09-12
+592,278,Pop,Violin,Rarely,2024-02-20
+593,558,Jazz,Guitar,Daily,2024-05-30
+594,206,Country,Violin,Never,2024-11-10
+595,278,Classical,Flute,Weekly,2024-10-21
+596,11,Rock,Flute,Occasionally,2024-02-29
+597,528,Electronic,Trumpet,Occasionally,2024-06-01
+598,146,Rock,Saxophone,Rarely,2024-05-15
+599,160,Country,Violin,Never,2024-05-26
+600,105,Pop,Flute,Rarely,2024-01-28
+601,297,Country,Flute,Never,2024-10-07
+602,391,Classical,Trumpet,Weekly,2024-02-19
+603,139,Classical,Drums,Occasionally,2024-09-17
+604,240,Jazz,Flute,Never,2024-01-01
+605,55,Hip Hop,Guitar,Occasionally,2024-02-24
+606,254,Jazz,Drums,Weekly,2024-03-01
+607,453,Country,Piano,Occasionally,2024-03-25
+608,79,Rock,Violin,Never,2024-08-24
+609,139,Jazz,Violin,Daily,2024-03-28
+610,181,Rock,Saxophone,Daily,2024-10-08
+611,161,Classical,Trumpet,Rarely,2024-02-19
+612,533,Jazz,Trumpet,Weekly,2024-02-23
+613,142,Rock,Trumpet,Never,2024-05-20
+614,320,Hip Hop,Violin,Occasionally,2024-07-17
+615,503,Hip Hop,Piano,Rarely,2024-08-19
+616,57,Jazz,Violin,Never,2024-10-18
+617,26,Classical,Piano,Weekly,2024-02-11
+618,368,Rock,Trumpet,Rarely,2024-05-07
+619,234,Classical,Violin,Rarely,2024-01-10
+620,481,Electronic,Trumpet,Weekly,2024-01-08
+621,271,Rock,Trumpet,Weekly,2024-09-14
+622,105,Rock,Violin,Never,2024-07-18
+623,321,Classical,Trumpet,Rarely,2024-07-01
+624,387,Jazz,Saxophone,Daily,2024-03-12
+625,442,Electronic,Piano,Rarely,2024-01-10
+626,355,Hip Hop,Violin,Never,2024-01-03
+627,185,Classical,Guitar,Daily,2024-02-06
+628,414,Jazz,Drums,Occasionally,2024-05-11
+629,349,Jazz,Flute,Never,2024-06-20
+630,425,Jazz,Trumpet,Weekly,2024-07-15
+631,178,Hip Hop,Guitar,Rarely,2024-02-08
+632,213,Pop,Drums,Daily,2024-06-23
+633,223,Jazz,Piano,Occasionally,2024-07-23
+634,159,Pop,Violin,Occasionally,2024-04-22
+635,235,Pop,Piano,Occasionally,2024-03-18
+636,299,Hip Hop,Trumpet,Never,2024-02-29
+637,432,Jazz,Violin,Weekly,2024-05-08
+638,209,Electronic,Trumpet,Never,2024-02-13
+639,22,Country,Drums,Occasionally,2024-08-23
+640,379,Country,Violin,Rarely,2024-09-03
+641,291,Rock,Violin,Daily,2024-01-16
+642,181,Country,Saxophone,Weekly,2024-01-08
+643,135,Electronic,Piano,Never,2024-07-23
+644,202,Jazz,Guitar,Rarely,2024-07-27
+645,148,Electronic,Drums,Occasionally,2024-08-08
+646,436,Hip Hop,Piano,Never,2024-08-11
+647,239,Electronic,Flute,Daily,2024-06-07
+648,427,Country,Guitar,Never,2024-01-02
+649,517,Rock,Saxophone,Weekly,2024-02-18
+650,75,Jazz,Guitar,Daily,2024-07-13
+651,535,Electronic,Drums,Daily,2024-04-12
+652,456,Rock,Flute,Weekly,2024-09-28
+653,544,Classical,Piano,Occasionally,2024-10-07
+654,182,Electronic,Saxophone,Weekly,2024-08-15
+655,347,Jazz,Violin,Rarely,2024-04-11
+656,505,Country,Trumpet,Rarely,2024-06-12
+657,44,Classical,Piano,Daily,2024-09-08
+658,217,Pop,Saxophone,Daily,2024-02-09
+659,335,Pop,Guitar,Never,2024-09-30
+660,330,Rock,Guitar,Weekly,2024-04-21
+661,512,Rock,Piano,Occasionally,2024-03-11
+662,15,Jazz,Saxophone,Daily,2024-04-13
+663,277,Classical,Flute,Never,2024-05-26
+664,156,Rock,Violin,Daily,2024-02-20
+665,115,Electronic,Guitar,Weekly,2024-02-20
+666,416,Hip Hop,Drums,Occasionally,2024-05-11
+667,350,Pop,Piano,Rarely,2024-02-12
+668,242,Rock,Flute,Never,2024-10-30
+669,26,Pop,Saxophone,Occasionally,2024-10-18
+670,27,Pop,Guitar,Occasionally,2024-05-13
+671,170,Electronic,Trumpet,Weekly,2024-09-09
+672,278,Hip Hop,Saxophone,Rarely,2024-07-19
+673,254,Electronic,Saxophone,Never,2024-03-07
+674,181,Rock,Violin,Daily,2024-04-12
+675,329,Hip Hop,Trumpet,Rarely,2024-01-04
+676,263,Jazz,Trumpet,Weekly,2024-01-10
+677,43,Rock,Violin,Occasionally,2024-05-18
+678,122,Classical,Trumpet,Weekly,2024-04-09
+679,363,Classical,Flute,Never,2024-10-11
+680,547,Jazz,Flute,Daily,2024-01-04
+681,143,Country,Piano,Occasionally,2024-02-12
+682,351,Pop,Flute,Never,2024-06-12
+683,229,Pop,Drums,Never,2024-06-15
+684,337,Jazz,Saxophone,Never,2024-08-16
+685,35,Rock,Guitar,Daily,2024-05-04
+686,430,Country,Piano,Never,2024-01-31
+687,137,Classical,Flute,Rarely,2024-03-16
+688,452,Electronic,Violin,Occasionally,2024-06-27
+689,448,Electronic,Trumpet,Never,2024-01-29
+690,351,Classical,Flute,Never,2024-04-07
+691,236,Hip Hop,Saxophone,Weekly,2024-10-05
+692,32,Electronic,Trumpet,Rarely,2024-06-07
+693,470,Hip Hop,Guitar,Rarely,2024-04-27
+694,217,Electronic,Flute,Rarely,2024-03-15
+695,205,Hip Hop,Trumpet,Never,2024-03-02
+696,135,Electronic,Flute,Daily,2024-02-04
+697,173,Pop,Flute,Never,2024-08-08
+698,208,Country,Guitar,Weekly,2024-03-28
+699,240,Classical,Saxophone,Daily,2024-02-08
+700,481,Classical,Piano,Occasionally,2024-02-14
+701,4,Pop,Violin,Never,2024-04-16
+702,236,Hip Hop,Guitar,Never,2024-01-01
+703,81,Pop,Saxophone,Never,2024-02-24
+704,172,Classical,Saxophone,Occasionally,2024-02-02
+705,420,Classical,Flute,Never,2024-04-30
+706,15,Rock,Piano,Weekly,2024-06-20
+707,93,Rock,Flute,Rarely,2024-09-08
+708,325,Rock,Flute,Occasionally,2024-08-01
+709,379,Pop,Flute,Weekly,2024-03-30
+710,37,Country,Violin,Weekly,2024-11-05
+711,142,Electronic,Flute,Daily,2024-04-08
+712,349,Hip Hop,Trumpet,Rarely,2024-07-16
+713,191,Hip Hop,Trumpet,Never,2024-09-16
+714,523,Hip Hop,Flute,Daily,2024-06-18
+715,521,Pop,Saxophone,Weekly,2024-09-20
+716,211,Hip Hop,Drums,Never,2024-02-25
+717,496,Hip Hop,Saxophone,Never,2024-03-08
+718,110,Hip Hop,Drums,Weekly,2024-08-22
+719,226,Jazz,Piano,Rarely,2024-10-16
+720,550,Country,Flute,Weekly,2024-05-06
+721,334,Jazz,Saxophone,Occasionally,2024-10-08
+722,176,Pop,Violin,Occasionally,2024-07-27
+723,125,Hip Hop,Violin,Weekly,2024-01-21
+724,166,Rock,Piano,Occasionally,2024-03-28
+725,284,Jazz,Guitar,Weekly,2024-01-02
+726,184,Country,Drums,Weekly,2024-05-10
+727,330,Rock,Saxophone,Daily,2024-06-12
+728,457,Country,Trumpet,Rarely,2024-10-02
+729,73,Country,Guitar,Occasionally,2024-01-21
+730,410,Electronic,Drums,Daily,2024-06-18
+731,442,Electronic,Violin,Daily,2024-06-07
+732,164,Classical,Piano,Never,2024-08-26
+733,158,Pop,Trumpet,Occasionally,2024-02-09
+734,480,Country,Saxophone,Rarely,2024-09-21
+735,369,Electronic,Flute,Rarely,2024-07-11
+736,506,Rock,Piano,Weekly,2024-03-18
+737,353,Pop,Trumpet,Daily,2024-08-23
+738,112,Rock,Trumpet,Occasionally,2024-01-15
+739,2,Rock,Flute,Rarely,2024-04-18
+740,397,Electronic,Violin,Daily,2024-02-26
+741,351,Classical,Drums,Never,2024-09-13
+742,421,Rock,Violin,Occasionally,2024-06-23
+743,530,Rock,Trumpet,Daily,2024-02-01
+744,124,Jazz,Flute,Daily,2024-09-08
+745,430,Electronic,Piano,Weekly,2024-08-19
+746,269,Electronic,Guitar,Daily,2024-01-05
+747,531,Classical,Piano,Occasionally,2024-10-11
+748,552,Electronic,Guitar,Daily,2024-03-04
+749,437,Country,Saxophone,Daily,2024-05-19
+750,483,Hip Hop,Violin,Never,2024-02-19
+751,375,Electronic,Saxophone,Weekly,2024-04-11
+752,178,Country,Drums,Rarely,2024-02-04
+753,58,Pop,Flute,Weekly,2024-09-17
+754,539,Country,Trumpet,Rarely,2024-10-24
+755,478,Country,Drums,Daily,2024-04-16
+756,48,Rock,Trumpet,Occasionally,2024-06-22
+757,182,Electronic,Saxophone,Weekly,2024-04-06
+758,218,Hip Hop,Flute,Rarely,2024-05-12
+759,47,Electronic,Flute,Weekly,2024-04-20
+760,373,Classical,Guitar,Never,2024-09-15
+761,356,Rock,Guitar,Rarely,2024-11-11
+762,361,Pop,Drums,Occasionally,2024-10-25
+763,243,Pop,Flute,Rarely,2024-03-14
+764,245,Pop,Flute,Never,2024-02-27
+765,153,Electronic,Trumpet,Rarely,2024-06-08
+766,336,Classical,Trumpet,Never,2024-08-27
+767,552,Electronic,Guitar,Never,2024-07-26
+768,33,Jazz,Piano,Never,2024-07-22
+769,555,Pop,Flute,Daily,2024-02-18
+770,446,Hip Hop,Trumpet,Rarely,2024-10-06
+771,437,Country,Guitar,Occasionally,2024-08-04
+772,65,Pop,Guitar,Daily,2024-03-11
+773,353,Rock,Drums,Occasionally,2024-10-06
+774,514,Electronic,Saxophone,Rarely,2024-01-05
+775,362,Country,Drums,Never,2024-09-28
+776,144,Jazz,Saxophone,Occasionally,2024-09-03
+777,220,Rock,Trumpet,Occasionally,2024-01-23
+778,140,Rock,Flute,Occasionally,2024-01-01
+779,366,Rock,Trumpet,Occasionally,2024-09-23
+780,332,Rock,Guitar,Weekly,2024-04-18
+781,19,Classical,Drums,Rarely,2024-05-05
+782,552,Pop,Piano,Rarely,2024-05-11
+783,26,Country,Piano,Rarely,2024-09-07
+784,308,Hip Hop,Saxophone,Rarely,2024-02-13
+785,275,Classical,Trumpet,Daily,2024-07-08
+786,395,Hip Hop,Piano,Weekly,2024-02-21
+787,237,Classical,Guitar,Never,2024-06-27
+788,361,Classical,Flute,Weekly,2024-03-22
+789,381,Pop,Piano,Occasionally,2024-11-13
+790,543,Hip Hop,Drums,Daily,2024-07-30
+791,184,Classical,Guitar,Occasionally,2024-03-04
+792,235,Electronic,Piano,Rarely,2024-03-25
+793,178,Jazz,Violin,Never,2024-04-28
+794,276,Classical,Piano,Never,2024-07-12
+795,556,Hip Hop,Saxophone,Occasionally,2024-06-05
+796,319,Hip Hop,Flute,Daily,2024-07-02
+797,350,Country,Flute,Weekly,2024-01-15
+798,220,Country,Trumpet,Rarely,2024-06-14
+799,350,Pop,Trumpet,Daily,2024-05-26
+800,550,Hip Hop,Flute,Never,2024-05-17
+801,373,Hip Hop,Violin,Daily,2024-08-26
+802,68,Rock,Drums,Weekly,2024-03-23
+803,423,Classical,Violin,Occasionally,2024-07-26
+804,457,Classical,Piano,Weekly,2024-07-08
+805,187,Classical,Trumpet,Occasionally,2024-07-21
+806,366,Hip Hop,Violin,Weekly,2024-02-14
+807,376,Classical,Piano,Occasionally,2024-10-15
+808,523,Hip Hop,Piano,Daily,2024-09-22
+809,104,Country,Saxophone,Never,2024-10-23
+810,558,Classical,Guitar,Occasionally,2024-07-02
+811,203,Pop,Drums,Rarely,2024-04-28
+812,226,Jazz,Guitar,Occasionally,2024-01-16
+813,400,Classical,Guitar,Rarely,2024-08-01
+814,289,Country,Piano,Weekly,2024-03-17
+815,216,Electronic,Violin,Rarely,2024-09-26
+816,35,Rock,Guitar,Daily,2024-06-01
+817,534,Jazz,Drums,Never,2024-08-22
+818,142,Rock,Drums,Rarely,2024-06-27
+819,94,Classical,Drums,Rarely,2024-02-20
+820,205,Hip Hop,Trumpet,Rarely,2024-03-21
+821,62,Hip Hop,Saxophone,Weekly,2024-04-14
+822,56,Electronic,Violin,Weekly,2024-05-01
+823,491,Electronic,Piano,Rarely,2024-07-29
+824,553,Jazz,Saxophone,Occasionally,2024-01-13
+825,283,Rock,Trumpet,Occasionally,2024-03-19
+826,459,Country,Saxophone,Weekly,2024-03-30
+827,304,Country,Violin,Rarely,2024-07-29
+828,378,Classical,Flute,Occasionally,2024-04-09
+829,271,Classical,Flute,Never,2024-07-08
+830,29,Hip Hop,Trumpet,Never,2024-08-27
+831,19,Electronic,Guitar,Daily,2024-03-09
+832,544,Electronic,Drums,Daily,2024-08-27
+833,355,Pop,Guitar,Never,2024-05-13
+834,215,Rock,Flute,Daily,2024-04-30
+835,269,Classical,Drums,Never,2024-06-17
+836,397,Rock,Violin,Occasionally,2024-10-05
+837,459,Classical,Saxophone,Weekly,2024-03-21
+838,289,Classical,Guitar,Weekly,2024-09-12
+839,426,Classical,Trumpet,Weekly,2024-04-22
+840,128,Classical,Piano,Daily,2024-06-19
+841,402,Pop,Flute,Occasionally,2024-08-04
+842,528,Country,Drums,Never,2024-08-29
+843,356,Rock,Guitar,Rarely,2024-09-24
+844,511,Rock,Guitar,Weekly,2024-02-13
+845,117,Rock,Saxophone,Weekly,2024-08-11
+846,286,Rock,Trumpet,Never,2024-07-07
+847,218,Classical,Violin,Daily,2024-07-04
+848,168,Jazz,Saxophone,Daily,2024-06-27
+849,225,Pop,Drums,Never,2024-05-24
+850,295,Hip Hop,Drums,Occasionally,2024-01-02
+851,517,Country,Trumpet,Never,2024-10-01
+852,547,Electronic,Saxophone,Rarely,2024-09-24
+853,349,Electronic,Piano,Occasionally,2024-02-13
+854,44,Rock,Saxophone,Weekly,2024-08-15
+855,290,Pop,Piano,Daily,2024-10-24
+856,255,Classical,Trumpet,Weekly,2024-04-08
+857,455,Classical,Saxophone,Daily,2024-07-16
+858,17,Electronic,Piano,Weekly,2024-01-24
+859,465,Country,Saxophone,Occasionally,2024-04-24
+860,353,Classical,Drums,Rarely,2024-04-11
+861,385,Country,Trumpet,Rarely,2024-04-17
+862,460,Pop,Guitar,Occasionally,2024-03-06
+863,529,Country,Drums,Weekly,2024-08-01
+864,25,Country,Guitar,Daily,2024-04-11
+865,269,Rock,Trumpet,Occasionally,2024-01-01
+866,313,Electronic,Saxophone,Occasionally,2024-08-10
+867,468,Hip Hop,Trumpet,Occasionally,2024-04-14
+868,137,Hip Hop,Violin,Occasionally,2024-08-24
+869,35,Country,Piano,Weekly,2024-01-30
+870,289,Pop,Violin,Daily,2024-07-03
+871,212,Jazz,Guitar,Daily,2024-01-13
+872,73,Hip Hop,Saxophone,Occasionally,2024-05-01
+873,469,Country,Drums,Daily,2024-10-21
+874,480,Hip Hop,Saxophone,Never,2024-05-23
+875,327,Rock,Saxophone,Weekly,2024-10-17
+876,26,Rock,Guitar,Rarely,2024-08-07
+877,437,Pop,Piano,Occasionally,2024-03-01
+878,459,Jazz,Guitar,Rarely,2024-07-11
+879,277,Country,Trumpet,Rarely,2024-05-17
+880,270,Classical,Trumpet,Rarely,2024-07-20
+881,415,Rock,Trumpet,Weekly,2024-03-06
+882,461,Pop,Trumpet,Occasionally,2024-03-31
+883,17,Rock,Saxophone,Weekly,2024-07-24
+884,339,Classical,Guitar,Daily,2024-06-24
+885,152,Classical,Saxophone,Daily,2024-04-09
+886,430,Rock,Trumpet,Occasionally,2024-03-31
+887,210,Electronic,Guitar,Daily,2024-02-17
+888,191,Country,Guitar,Weekly,2024-09-30
+889,443,Classical,Drums,Daily,2024-05-23
+890,329,Country,Guitar,Never,2024-02-06
+891,89,Pop,Trumpet,Daily,2024-05-15
+892,449,Pop,Violin,Never,2024-01-02
+893,47,Country,Piano,Occasionally,2024-02-26
+894,139,Country,Saxophone,Daily,2024-06-18
+895,15,Pop,Guitar,Rarely,2024-01-31
+896,453,Pop,Saxophone,Rarely,2024-09-03
+897,158,Rock,Flute,Occasionally,2024-09-07
+898,518,Classical,Piano,Rarely,2024-06-17
+899,29,Pop,Violin,Daily,2024-03-06
+900,140,Jazz,Violin,Rarely,2024-01-15
+901,82,Classical,Flute,Never,2024-01-18
+902,98,Electronic,Guitar,Never,2024-01-25
+903,526,Classical,Trumpet,Rarely,2024-09-21
+904,462,Pop,Violin,Never,2024-08-16
+905,318,Rock,Saxophone,Rarely,2024-09-15
+906,464,Classical,Violin,Occasionally,2024-05-26
+907,46,Jazz,Drums,Daily,2024-05-14
+908,172,Pop,Flute,Daily,2024-07-10
+909,320,Jazz,Saxophone,Daily,2024-05-23
+910,89,Pop,Violin,Never,2024-08-07
+911,419,Electronic,Trumpet,Never,2024-05-01
+912,141,Rock,Guitar,Rarely,2024-03-01
+913,126,Pop,Violin,Daily,2024-02-25
+914,354,Country,Guitar,Rarely,2024-01-21
+915,551,Classical,Violin,Daily,2024-05-11
+916,455,Classical,Violin,Weekly,2024-06-20
+917,354,Classical,Piano,Never,2024-10-23
+918,273,Electronic,Drums,Daily,2024-08-28
+919,177,Country,Saxophone,Daily,2024-01-24
+920,44,Jazz,Flute,Weekly,2024-04-27
+921,230,Classical,Trumpet,Daily,2024-05-28
+922,501,Classical,Piano,Weekly,2024-10-11
+923,480,Hip Hop,Drums,Daily,2024-06-25
+924,144,Pop,Piano,Never,2024-09-13
+925,508,Jazz,Saxophone,Weekly,2024-04-22
+926,551,Rock,Flute,Weekly,2024-10-23
+927,49,Jazz,Guitar,Daily,2024-07-17
+928,474,Hip Hop,Violin,Never,2024-04-10
+929,64,Hip Hop,Trumpet,Daily,2024-03-18
+930,157,Classical,Drums,Weekly,2024-09-11
+931,317,Jazz,Piano,Never,2024-04-24
+932,94,Hip Hop,Flute,Occasionally,2024-05-01
+933,526,Pop,Piano,Never,2024-07-21
+934,245,Rock,Trumpet,Rarely,2024-01-29
+935,24,Classical,Saxophone,Never,2024-10-02
+936,114,Jazz,Trumpet,Never,2024-10-19
+937,70,Pop,Saxophone,Weekly,2024-08-20
+938,351,Hip Hop,Trumpet,Weekly,2024-08-14
+939,445,Hip Hop,Saxophone,Daily,2024-06-13
+940,266,Classical,Guitar,Weekly,2024-05-09
+941,419,Classical,Saxophone,Weekly,2024-07-02
+942,392,Classical,Saxophone,Rarely,2024-08-26
+943,8,Jazz,Trumpet,Weekly,2024-01-08
+944,30,Jazz,Drums,Occasionally,2024-09-01
+945,61,Classical,Violin,Never,2024-10-21
+946,527,Classical,Trumpet,Never,2024-07-22
+947,26,Electronic,Flute,Never,2024-02-05
+948,63,Hip Hop,Violin,Weekly,2024-09-07
+949,4,Jazz,Piano,Rarely,2024-07-10
+950,469,Electronic,Flute,Never,2024-02-21
+951,195,Jazz,Flute,Rarely,2024-04-03
+952,524,Classical,Piano,Daily,2024-03-24
+953,488,Pop,Drums,Rarely,2024-03-14
+954,469,Rock,Drums,Daily,2024-09-25
+955,3,Pop,Guitar,Weekly,2024-07-06
+956,517,Hip Hop,Piano,Never,2024-08-24
+957,412,Classical,Flute,Never,2024-03-27
+958,373,Electronic,Flute,Weekly,2024-09-26
+959,91,Rock,Drums,Daily,2024-06-19
+960,292,Rock,Piano,Occasionally,2024-08-06
+961,354,Electronic,Guitar,Daily,2024-04-11
+962,544,Hip Hop,Guitar,Rarely,2024-01-11
+963,447,Classical,Flute,Occasionally,2024-04-06
+964,501,Hip Hop,Violin,Never,2024-04-22
+965,414,Hip Hop,Saxophone,Rarely,2024-03-09
+966,61,Rock,Piano,Rarely,2024-09-03
+967,215,Rock,Guitar,Rarely,2024-10-27
+968,460,Rock,Violin,Rarely,2024-08-23
+969,210,Country,Piano,Occasionally,2024-07-16
+970,176,Classical,Violin,Weekly,2024-03-16
+971,12,Classical,Drums,Daily,2024-07-17
+972,330,Classical,Violin,Daily,2024-09-03
+973,28,Rock,Guitar,Daily,2024-09-21
+974,365,Country,Piano,Weekly,2024-06-07
+975,4,Jazz,Piano,Daily,2024-07-02
+976,392,Electronic,Drums,Occasionally,2024-09-04
+977,58,Pop,Guitar,Daily,2024-04-13
+978,379,Country,Piano,Never,2024-04-20
+979,305,Classical,Saxophone,Occasionally,2024-02-12
+980,537,Pop,Flute,Weekly,2024-04-07
+981,109,Hip Hop,Drums,Occasionally,2024-01-20
+982,98,Jazz,Saxophone,Never,2024-08-25
+983,32,Country,Piano,Daily,2024-08-18
+984,549,Hip Hop,Piano,Occasionally,2024-10-16
+985,487,Rock,Piano,Occasionally,2024-11-03
+986,459,Classical,Piano,Occasionally,2024-10-18
+987,535,Classical,Trumpet,Daily,2024-05-17
+988,445,Classical,Drums,Daily,2024-06-16
+989,302,Rock,Guitar,Rarely,2024-03-03
+990,49,Classical,Violin,Occasionally,2024-08-03
+991,45,Rock,Guitar,Never,2024-05-30
+992,496,Hip Hop,Flute,Daily,2024-04-08
+993,392,Hip Hop,Piano,Occasionally,2024-01-08
+994,241,Country,Drums,Occasionally,2024-05-05
+995,163,Electronic,Violin,Daily,2024-07-28
+996,339,Electronic,Piano,Daily,2024-02-27
+997,21,Hip Hop,Guitar,Daily,2024-04-27
+998,558,Classical,Piano,Rarely,2024-09-14
+999,533,Electronic,Guitar,Rarely,2024-06-08
+1000,247,Country,Saxophone,Occasionally,2024-05-27

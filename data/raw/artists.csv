@@ -1,0 +1,751 @@
+artist_id,name,genre,popularity_score
+1,Gene Pokorny,pop,0.14
+2,Taylor Swift,pop,1.0
+3,Drake,pop,0.96
+4,The Weeknd,pop,0.96
+5,Billie Eilish,pop,0.96
+6,Sabrina Carpenter,pop,0.94
+7,Bruno Mars,pop,0.96
+8,Post Malone,pop,0.91
+9,SZA,pop,0.9
+10,Lil Wayne,pop,0.88
+11,Chappell Roan,pop,0.89
+12,Ariana Grande,pop,0.92
+13,Lana Del Rey,pop,0.92
+14,Rihanna,pop,0.92
+15,Noah Kahan,pop,0.86
+16,Lady Gaga,pop,0.92
+17,Charli xcx,pop,0.88
+18,Justin Bieber,pop,0.91
+19,Olivia Rodrigo,pop,0.89
+20,One Direction,pop,0.91
+21,Coldplay,pop,0.92
+22,Hozier,pop,0.86
+23,Jelly Roll,pop,0.83
+24,Nicki Minaj,pop,0.87
+25,Feid,pop,0.92
+26,Kali Uchis,pop,0.86
+27,Rauw Alejandro,pop,0.9
+28,Doja Cat,pop,0.87
+29,Beyoncé,pop,0.87
+30,Megan Thee Stallion,pop,0.83
+31,Imagine Dragons,pop,0.89
+32,Lil Durk,pop,0.82
+33,Ed Sheeran,pop,0.89
+34,Benson Boone,pop,0.86
+35,Khalid,pop,0.85
+36,The Neighbourhood,pop,0.86
+37,Tate McRae,pop,0.85
+38,Jimin,pop,0.89
+39,David Guetta,pop,0.9
+40,Cigarettes After Sex,pop,0.86
+41,Ty Dolla $ign,pop,0.84
+42,JAY-Z,pop,0.85
+43,Dua Lipa,pop,0.88
+44,Clairo,pop,0.82
+45,Katy Perry,pop,0.86
+46,Maroon 5,pop,0.87
+47,Pitbull,pop,0.86
+48,Halsey,pop,0.84
+49,Marshmello,pop,0.84
+50,Snoop Dogg,pop,0.84
+51,Genki Rockets,rock,0.22
+52,Gene Rockwell,rock,0.25
+53,Linkin Park,rock,0.92
+54,Hozier,rock,0.86
+55,Imagine Dragons,rock,0.89
+56,Arctic Monkeys,rock,0.88
+57,The Beatles,rock,0.86
+58,The Neighbourhood,rock,0.86
+59,Fleetwood Mac,rock,0.83
+60,Deftones,rock,0.81
+61,Radiohead,rock,0.84
+62,Twenty One Pilots,rock,0.83
+63,Nirvana,rock,0.83
+64,Mac DeMarco,rock,0.82
+65,Green Day,rock,0.83
+66,Red Hot Chili Peppers,rock,0.84
+67,Metallica,rock,0.84
+68,Queen,rock,0.86
+69,Creedence Clearwater Revival,rock,0.82
+70,Fall Out Boy,rock,0.8
+71,Elton John,rock,0.84
+72,OneRepublic,rock,0.84
+73,System Of A Down,rock,0.82
+74,Luke Bryan,rock,0.77
+75,Tame Impala,rock,0.81
+76,AC/DC,rock,0.83
+77,The Lumineers,rock,0.79
+78,Paramore,rock,0.8
+79,Nickelback,rock,0.8
+80,Slipknot,rock,0.81
+81,Dominic Fike,rock,0.79
+82,Alex G,rock,0.78
+83,My Chemical Romance,rock,0.8
+84,Gorillaz,rock,0.81
+85,blink-182,rock,0.8
+86,The Smiths,rock,0.8
+87,Bon Iver,rock,0.79
+88,Billy Joel,rock,0.79
+89,Jason Aldean,rock,0.74
+90,Three Days Grace,rock,0.78
+91,Korn,rock,0.78
+92,The Rolling Stones,rock,0.8
+93,Daft Punk,rock,0.82
+94,Thomas Rhett,rock,0.75
+95,Pierce The Veil,rock,0.75
+96,Jon Pardi,rock,0.74
+97,Cage The Elephant,rock,0.76
+98,Weezer,rock,0.76
+99,Pink Floyd,rock,0.8
+100,Bring Me The Horizon,rock,0.8
+101,Drake,hip-hop,0.96
+102,"Tyler, The Creator",hip-hop,0.95
+103,Future,hip-hop,0.93
+104,Kanye West,hip-hop,0.93
+105,Kendrick Lamar,hip-hop,0.92
+106,Eminem,hip-hop,0.93
+107,$uicideboy$,hip-hop,0.87
+108,Lil Wayne,hip-hop,0.88
+109,21 Savage,hip-hop,0.89
+110,Lil Uzi Vert,hip-hop,0.88
+111,Frank Ocean,hip-hop,0.89
+112,Playboi Carti,hip-hop,0.9
+113,XXXTENTACION,hip-hop,0.89
+114,Lil Baby,hip-hop,0.87
+115,J. Cole,hip-hop,0.86
+116,Gunna,hip-hop,0.87
+117,BigXthaPlug,hip-hop,0.83
+118,Jelly Roll,hip-hop,0.83
+119,Nicki Minaj,hip-hop,0.87
+120,A$AP Rocky,hip-hop,0.86
+121,Young Thug,hip-hop,0.86
+122,Lil Peep,hip-hop,0.85
+123,GloRilla,hip-hop,0.82
+124,Mac Miller,hip-hop,0.83
+125,Kodak Black,hip-hop,0.82
+126,Lil Durk,hip-hop,0.82
+127,Ty Dolla $ign,hip-hop,0.84
+128,Bryson Tiller,hip-hop,0.83
+129,JAY-Z,hip-hop,0.85
+130,The Kid LAROI,hip-hop,0.85
+131,Lil Yachty,hip-hop,0.81
+132,Pitbull,hip-hop,0.86
+133,Childish Gambino,hip-hop,0.81
+134,Snoop Dogg,hip-hop,0.84
+135,Tory Lanez,hip-hop,0.82
+136,NLE Choppa,hip-hop,0.8
+137,50 Cent,hip-hop,0.85
+138,USHER,hip-hop,0.83
+139,Daddy Yankee,hip-hop,0.87
+140,Wiz Khalifa,hip-hop,0.83
+141,Moneybagg Yo,hip-hop,0.77
+142,Kid Cudi,hip-hop,0.8
+143,DaBaby,hip-hop,0.8
+144,T-Pain,hip-hop,0.8
+145,Romeo Santos,hip-hop,0.85
+146,Dr. Dre,hip-hop,0.82
+147,NF,hip-hop,0.79
+148,2Pac,hip-hop,0.82
+149,Key Glock,hip-hop,0.76
+150,mgk,hip-hop,0.79
+151,Michael Bublé,jazz,0.79
+152,Leslie Odom Jr.,jazz,0.73
+153,"Earth, Wind & Fire",jazz,0.76
+154,Nat King Cole,jazz,0.74
+155,Dean Martin,jazz,0.73
+156,Norah Jones,jazz,0.75
+157,Otis Redding,jazz,0.72
+158,Louis Armstrong,jazz,0.72
+159,Etta James,jazz,0.72
+160,Ella Fitzgerald,jazz,0.7
+161,Sam Cooke,jazz,0.69
+162,A Tribe Called Quest,jazz,0.68
+163,Aretha Franklin,jazz,0.72
+164,Vince Guaraldi Trio,jazz,0.64
+165,Ray Charles,jazz,0.7
+166,Nina Simone,jazz,0.7
+167,Antônio Carlos Jobim,jazz,0.7
+168,Billie Holiday,jazz,0.67
+169,John Coltrane,jazz,0.67
+170,Nujabes,jazz,0.66
+171,berlioz,jazz,0.69
+172,Chet Baker,jazz,0.67
+173,Vince Guaraldi,jazz,0.6
+174,Stan Getz,jazz,0.67
+175,Dusty Springfield,jazz,0.69
+176,DJ Premier,jazz,0.66
+177,Cafe Music BGM channel,jazz,0.7
+178,BADBADNOTGOOD,jazz,0.65
+179,Tony Bennett,jazz,0.65
+180,Kenny G,jazz,0.66
+181,Miles Davis,jazz,0.65
+182,Bobby Darin,jazz,0.62
+183,GRiZ,jazz,0.58
+184,Tulus,jazz,0.76
+185,Bill Evans,jazz,0.64
+186,Kris Bowers,jazz,0.63
+187,Count Basie,jazz,0.64
+188,George Benson,jazz,0.66
+189,James Brown,jazz,0.64
+190,Tom Misch,jazz,0.66
+191,Quincy Jones,jazz,0.64
+192,"Grover Washington, Jr.",jazz,0.64
+193,Natalie Cole,jazz,0.64
+194,Eartha Kitt,jazz,0.6
+195,Caravan Palace,jazz,0.62
+196,João Gilberto,jazz,0.65
+197,Bonobo,jazz,0.64
+198,Jon Batiste,jazz,0.6
+199,Barry Can't Swim,jazz,0.65
+200,De La Soul,jazz,0.61
+201,Johann Sebastian Bach,classical,0.79
+202,Ludovico Einaudi,classical,0.8
+203,Wolfgang Amadeus Mozart,classical,0.77
+204,London Symphony Orchestra,classical,0.75
+205,Berliner Philharmoniker,classical,0.75
+206,Frédéric Chopin,classical,0.75
+207,Ludwig van Beethoven,classical,0.73
+208,Pyotr Ilyich Tchaikovsky,classical,0.71
+209,Joe Hisaishi,classical,0.71
+210,Antonio Vivaldi,classical,0.72
+211,Claude Debussy,classical,0.7
+212,Andrea Bocelli,classical,0.72
+213,Howard Shore,classical,0.69
+214,Johannes Brahms,classical,0.7
+215,Herbert von Karajan,classical,0.7
+216,Yo-Yo Ma,classical,0.67
+217,Erik Satie,classical,0.68
+218,Antônio Carlos Jobim,classical,0.7
+219,Wiener Philharmoniker,classical,0.69
+220,Academy of St. Martin in the Fields,classical,0.68
+221,Camille Saint-Saëns,classical,0.67
+222,Sir Simon Rattle,classical,0.66
+223,Gustavo Santaolalla,classical,0.66
+224,Sir Neville Marriner,classical,0.67
+225,George Frideric Handel,classical,0.67
+226,Jóhann Jóhannsson,classical,0.66
+227,Henry Smith,classical,0.66
+228,Sergei Rachmaninoff,classical,0.65
+229,Lang Lang,classical,0.65
+230,I Virtuosi Italiani,classical,0.68
+231,Alexis Ffrench,classical,0.65
+232,Edvard Grieg,classical,0.64
+233,Víkingur Ólafsson,classical,0.63
+234,Yiruma,classical,0.67
+235,Claudio Abbado,classical,0.66
+236,Nobuo Uematsu,classical,0.62
+237,Gabriel Fauré,classical,0.63
+238,Franz Liszt,classical,0.64
+239,Franz Schubert,classical,0.65
+240,Itzhak Perlman,classical,0.63
+241,Ólafur Arnalds,classical,0.65
+242,Leonard Bernstein,classical,0.62
+243,Daniel Barenboim,classical,0.64
+244,Antonín Dvořák,classical,0.63
+245,Jean-Yves Thibaudet,classical,0.6
+246,Felix Mendelssohn,classical,0.63
+247,New York Philharmonic,classical,0.61
+248,Harold Budd,classical,0.59
+249,Philip Glass,classical,0.61
+250,Trans-Siberian Orchestra,classical,0.55
+251,Gene Pokorny,pop,0.14
+252,Taylor Swift,pop,1.0
+253,Drake,pop,0.96
+254,The Weeknd,pop,0.96
+255,Billie Eilish,pop,0.96
+256,Sabrina Carpenter,pop,0.94
+257,Bruno Mars,pop,0.96
+258,Post Malone,pop,0.91
+259,SZA,pop,0.9
+260,Lil Wayne,pop,0.88
+261,Chappell Roan,pop,0.89
+262,Ariana Grande,pop,0.92
+263,Lana Del Rey,pop,0.92
+264,Rihanna,pop,0.92
+265,Noah Kahan,pop,0.86
+266,Lady Gaga,pop,0.92
+267,Charli xcx,pop,0.88
+268,Justin Bieber,pop,0.91
+269,Olivia Rodrigo,pop,0.89
+270,One Direction,pop,0.91
+271,Coldplay,pop,0.92
+272,Hozier,pop,0.86
+273,Jelly Roll,pop,0.83
+274,Nicki Minaj,pop,0.87
+275,Feid,pop,0.92
+276,Kali Uchis,pop,0.86
+277,Rauw Alejandro,pop,0.9
+278,Doja Cat,pop,0.87
+279,Beyoncé,pop,0.87
+280,Megan Thee Stallion,pop,0.83
+281,Imagine Dragons,pop,0.89
+282,Lil Durk,pop,0.82
+283,Ed Sheeran,pop,0.89
+284,Benson Boone,pop,0.86
+285,Khalid,pop,0.85
+286,The Neighbourhood,pop,0.86
+287,Tate McRae,pop,0.85
+288,Jimin,pop,0.89
+289,David Guetta,pop,0.9
+290,Cigarettes After Sex,pop,0.86
+291,Ty Dolla $ign,pop,0.84
+292,JAY-Z,pop,0.85
+293,Dua Lipa,pop,0.88
+294,Clairo,pop,0.82
+295,Katy Perry,pop,0.86
+296,Maroon 5,pop,0.87
+297,Pitbull,pop,0.86
+298,Halsey,pop,0.84
+299,Marshmello,pop,0.84
+300,Snoop Dogg,pop,0.84
+301,Genki Rockets,rock,0.22
+302,Gene Rockwell,rock,0.25
+303,Linkin Park,rock,0.92
+304,Hozier,rock,0.86
+305,Imagine Dragons,rock,0.89
+306,Arctic Monkeys,rock,0.88
+307,The Beatles,rock,0.86
+308,The Neighbourhood,rock,0.86
+309,Fleetwood Mac,rock,0.83
+310,Deftones,rock,0.81
+311,Radiohead,rock,0.84
+312,Twenty One Pilots,rock,0.83
+313,Nirvana,rock,0.83
+314,Mac DeMarco,rock,0.82
+315,Green Day,rock,0.83
+316,Red Hot Chili Peppers,rock,0.84
+317,Metallica,rock,0.84
+318,Queen,rock,0.86
+319,Creedence Clearwater Revival,rock,0.82
+320,Fall Out Boy,rock,0.8
+321,Elton John,rock,0.84
+322,OneRepublic,rock,0.84
+323,System Of A Down,rock,0.82
+324,Luke Bryan,rock,0.77
+325,Tame Impala,rock,0.81
+326,AC/DC,rock,0.83
+327,The Lumineers,rock,0.79
+328,Paramore,rock,0.8
+329,Nickelback,rock,0.8
+330,Slipknot,rock,0.81
+331,Dominic Fike,rock,0.79
+332,Alex G,rock,0.78
+333,My Chemical Romance,rock,0.8
+334,Gorillaz,rock,0.81
+335,blink-182,rock,0.8
+336,The Smiths,rock,0.8
+337,Bon Iver,rock,0.79
+338,Billy Joel,rock,0.79
+339,Jason Aldean,rock,0.74
+340,Three Days Grace,rock,0.78
+341,Korn,rock,0.78
+342,The Rolling Stones,rock,0.8
+343,Daft Punk,rock,0.82
+344,Thomas Rhett,rock,0.75
+345,Pierce The Veil,rock,0.75
+346,Jon Pardi,rock,0.74
+347,Cage The Elephant,rock,0.76
+348,Weezer,rock,0.76
+349,Pink Floyd,rock,0.8
+350,Bring Me The Horizon,rock,0.8
+351,Drake,hip-hop,0.96
+352,"Tyler, The Creator",hip-hop,0.95
+353,Future,hip-hop,0.93
+354,Kanye West,hip-hop,0.93
+355,Kendrick Lamar,hip-hop,0.92
+356,Eminem,hip-hop,0.93
+357,$uicideboy$,hip-hop,0.87
+358,Lil Wayne,hip-hop,0.88
+359,21 Savage,hip-hop,0.89
+360,Lil Uzi Vert,hip-hop,0.88
+361,Frank Ocean,hip-hop,0.89
+362,Playboi Carti,hip-hop,0.9
+363,XXXTENTACION,hip-hop,0.89
+364,Lil Baby,hip-hop,0.87
+365,J. Cole,hip-hop,0.86
+366,Gunna,hip-hop,0.87
+367,BigXthaPlug,hip-hop,0.83
+368,Jelly Roll,hip-hop,0.83
+369,Nicki Minaj,hip-hop,0.87
+370,A$AP Rocky,hip-hop,0.86
+371,Young Thug,hip-hop,0.86
+372,Lil Peep,hip-hop,0.85
+373,GloRilla,hip-hop,0.82
+374,Mac Miller,hip-hop,0.83
+375,Kodak Black,hip-hop,0.82
+376,Lil Durk,hip-hop,0.82
+377,Ty Dolla $ign,hip-hop,0.84
+378,Bryson Tiller,hip-hop,0.83
+379,JAY-Z,hip-hop,0.85
+380,The Kid LAROI,hip-hop,0.85
+381,Lil Yachty,hip-hop,0.81
+382,Pitbull,hip-hop,0.86
+383,Childish Gambino,hip-hop,0.81
+384,Snoop Dogg,hip-hop,0.84
+385,Tory Lanez,hip-hop,0.82
+386,NLE Choppa,hip-hop,0.8
+387,50 Cent,hip-hop,0.85
+388,USHER,hip-hop,0.83
+389,Daddy Yankee,hip-hop,0.87
+390,Wiz Khalifa,hip-hop,0.83
+391,Moneybagg Yo,hip-hop,0.77
+392,Kid Cudi,hip-hop,0.8
+393,DaBaby,hip-hop,0.8
+394,T-Pain,hip-hop,0.8
+395,Romeo Santos,hip-hop,0.85
+396,Dr. Dre,hip-hop,0.82
+397,NF,hip-hop,0.79
+398,2Pac,hip-hop,0.82
+399,Key Glock,hip-hop,0.76
+400,mgk,hip-hop,0.79
+401,Michael Bublé,jazz,0.79
+402,Leslie Odom Jr.,jazz,0.73
+403,"Earth, Wind & Fire",jazz,0.76
+404,Nat King Cole,jazz,0.74
+405,Dean Martin,jazz,0.73
+406,Norah Jones,jazz,0.75
+407,Otis Redding,jazz,0.72
+408,Louis Armstrong,jazz,0.72
+409,Etta James,jazz,0.72
+410,Ella Fitzgerald,jazz,0.7
+411,Sam Cooke,jazz,0.69
+412,A Tribe Called Quest,jazz,0.68
+413,Aretha Franklin,jazz,0.72
+414,Vince Guaraldi Trio,jazz,0.64
+415,Ray Charles,jazz,0.7
+416,Nina Simone,jazz,0.7
+417,Antônio Carlos Jobim,jazz,0.7
+418,Billie Holiday,jazz,0.67
+419,John Coltrane,jazz,0.67
+420,Nujabes,jazz,0.66
+421,berlioz,jazz,0.69
+422,Chet Baker,jazz,0.67
+423,Vince Guaraldi,jazz,0.6
+424,Stan Getz,jazz,0.67
+425,Dusty Springfield,jazz,0.69
+426,DJ Premier,jazz,0.66
+427,Cafe Music BGM channel,jazz,0.7
+428,BADBADNOTGOOD,jazz,0.65
+429,Tony Bennett,jazz,0.65
+430,Kenny G,jazz,0.66
+431,Miles Davis,jazz,0.65
+432,Bobby Darin,jazz,0.62
+433,GRiZ,jazz,0.58
+434,Tulus,jazz,0.76
+435,Bill Evans,jazz,0.64
+436,Kris Bowers,jazz,0.63
+437,Count Basie,jazz,0.64
+438,George Benson,jazz,0.66
+439,James Brown,jazz,0.64
+440,Tom Misch,jazz,0.66
+441,Quincy Jones,jazz,0.64
+442,"Grover Washington, Jr.",jazz,0.64
+443,Natalie Cole,jazz,0.64
+444,Eartha Kitt,jazz,0.6
+445,Caravan Palace,jazz,0.62
+446,João Gilberto,jazz,0.65
+447,Bonobo,jazz,0.64
+448,Jon Batiste,jazz,0.6
+449,Barry Can't Swim,jazz,0.65
+450,De La Soul,jazz,0.61
+451,Johann Sebastian Bach,classical,0.79
+452,Ludovico Einaudi,classical,0.8
+453,Wolfgang Amadeus Mozart,classical,0.77
+454,London Symphony Orchestra,classical,0.75
+455,Berliner Philharmoniker,classical,0.75
+456,Frédéric Chopin,classical,0.75
+457,Ludwig van Beethoven,classical,0.73
+458,Pyotr Ilyich Tchaikovsky,classical,0.71
+459,Joe Hisaishi,classical,0.71
+460,Antonio Vivaldi,classical,0.72
+461,Claude Debussy,classical,0.7
+462,Andrea Bocelli,classical,0.72
+463,Howard Shore,classical,0.69
+464,Johannes Brahms,classical,0.7
+465,Herbert von Karajan,classical,0.7
+466,Yo-Yo Ma,classical,0.67
+467,Erik Satie,classical,0.68
+468,Antônio Carlos Jobim,classical,0.7
+469,Wiener Philharmoniker,classical,0.69
+470,Academy of St. Martin in the Fields,classical,0.68
+471,Camille Saint-Saëns,classical,0.67
+472,Sir Simon Rattle,classical,0.66
+473,Gustavo Santaolalla,classical,0.66
+474,Sir Neville Marriner,classical,0.67
+475,George Frideric Handel,classical,0.67
+476,Jóhann Jóhannsson,classical,0.66
+477,Henry Smith,classical,0.66
+478,Sergei Rachmaninoff,classical,0.65
+479,Lang Lang,classical,0.65
+480,I Virtuosi Italiani,classical,0.68
+481,Alexis Ffrench,classical,0.65
+482,Edvard Grieg,classical,0.64
+483,Víkingur Ólafsson,classical,0.63
+484,Yiruma,classical,0.67
+485,Claudio Abbado,classical,0.66
+486,Nobuo Uematsu,classical,0.62
+487,Gabriel Fauré,classical,0.63
+488,Franz Liszt,classical,0.64
+489,Franz Schubert,classical,0.65
+490,Itzhak Perlman,classical,0.63
+491,Ólafur Arnalds,classical,0.65
+492,Leonard Bernstein,classical,0.62
+493,Daniel Barenboim,classical,0.64
+494,Antonín Dvořák,classical,0.63
+495,Jean-Yves Thibaudet,classical,0.6
+496,Felix Mendelssohn,classical,0.63
+497,New York Philharmonic,classical,0.61
+498,Harold Budd,classical,0.59
+499,Philip Glass,classical,0.61
+500,Trans-Siberian Orchestra,classical,0.55
+501,Gene Pokorny,pop,0.14
+502,Taylor Swift,pop,1.0
+503,Drake,pop,0.96
+504,The Weeknd,pop,0.96
+505,Billie Eilish,pop,0.96
+506,Sabrina Carpenter,pop,0.94
+507,Bruno Mars,pop,0.96
+508,Post Malone,pop,0.91
+509,SZA,pop,0.9
+510,Lil Wayne,pop,0.88
+511,Chappell Roan,pop,0.89
+512,Ariana Grande,pop,0.93
+513,Lana Del Rey,pop,0.92
+514,Rihanna,pop,0.92
+515,Noah Kahan,pop,0.86
+516,Lady Gaga,pop,0.92
+517,Charli xcx,pop,0.88
+518,Justin Bieber,pop,0.91
+519,Olivia Rodrigo,pop,0.89
+520,One Direction,pop,0.91
+521,Coldplay,pop,0.92
+522,Hozier,pop,0.86
+523,Jelly Roll,pop,0.83
+524,Nicki Minaj,pop,0.87
+525,Feid,pop,0.92
+526,Kali Uchis,pop,0.86
+527,Rauw Alejandro,pop,0.9
+528,Doja Cat,pop,0.87
+529,Beyoncé,pop,0.87
+530,Megan Thee Stallion,pop,0.83
+531,Imagine Dragons,pop,0.89
+532,Lil Durk,pop,0.82
+533,Ed Sheeran,pop,0.89
+534,Benson Boone,pop,0.86
+535,Khalid,pop,0.85
+536,The Neighbourhood,pop,0.86
+537,Tate McRae,pop,0.85
+538,Jimin,pop,0.89
+539,David Guetta,pop,0.9
+540,Cigarettes After Sex,pop,0.86
+541,Ty Dolla $ign,pop,0.84
+542,JAY-Z,pop,0.85
+543,Dua Lipa,pop,0.88
+544,Clairo,pop,0.82
+545,Katy Perry,pop,0.86
+546,Maroon 5,pop,0.87
+547,Pitbull,pop,0.86
+548,Halsey,pop,0.84
+549,Marshmello,pop,0.85
+550,Snoop Dogg,pop,0.84
+551,Genki Rockets,rock,0.22
+552,Gene Rockwell,rock,0.25
+553,Linkin Park,rock,0.92
+554,Hozier,rock,0.86
+555,Imagine Dragons,rock,0.89
+556,Arctic Monkeys,rock,0.88
+557,The Beatles,rock,0.86
+558,The Neighbourhood,rock,0.86
+559,Fleetwood Mac,rock,0.83
+560,Deftones,rock,0.81
+561,Radiohead,rock,0.84
+562,Twenty One Pilots,rock,0.83
+563,Nirvana,rock,0.83
+564,Mac DeMarco,rock,0.82
+565,Green Day,rock,0.83
+566,Red Hot Chili Peppers,rock,0.84
+567,Metallica,rock,0.84
+568,Queen,rock,0.86
+569,Creedence Clearwater Revival,rock,0.82
+570,Fall Out Boy,rock,0.8
+571,Elton John,rock,0.84
+572,OneRepublic,rock,0.84
+573,System Of A Down,rock,0.82
+574,Luke Bryan,rock,0.77
+575,Tame Impala,rock,0.81
+576,AC/DC,rock,0.83
+577,The Lumineers,rock,0.79
+578,Paramore,rock,0.8
+579,Nickelback,rock,0.8
+580,Slipknot,rock,0.81
+581,Dominic Fike,rock,0.79
+582,Alex G,rock,0.78
+583,My Chemical Romance,rock,0.8
+584,Gorillaz,rock,0.81
+585,blink-182,rock,0.8
+586,The Smiths,rock,0.8
+587,Bon Iver,rock,0.79
+588,Billy Joel,rock,0.79
+589,Jason Aldean,rock,0.74
+590,Three Days Grace,rock,0.78
+591,Korn,rock,0.78
+592,The Rolling Stones,rock,0.8
+593,Daft Punk,rock,0.82
+594,Thomas Rhett,rock,0.75
+595,Pierce The Veil,rock,0.75
+596,Jon Pardi,rock,0.74
+597,Cage The Elephant,rock,0.76
+598,Weezer,rock,0.76
+599,Pink Floyd,rock,0.8
+600,Bring Me The Horizon,rock,0.8
+601,Drake,hip-hop,0.96
+602,"Tyler, The Creator",hip-hop,0.95
+603,Future,hip-hop,0.93
+604,Kanye West,hip-hop,0.93
+605,Kendrick Lamar,hip-hop,0.92
+606,Eminem,hip-hop,0.93
+607,$uicideboy$,hip-hop,0.87
+608,Lil Wayne,hip-hop,0.88
+609,21 Savage,hip-hop,0.89
+610,Lil Uzi Vert,hip-hop,0.88
+611,Frank Ocean,hip-hop,0.89
+612,Playboi Carti,hip-hop,0.9
+613,XXXTENTACION,hip-hop,0.89
+614,Lil Baby,hip-hop,0.87
+615,J. Cole,hip-hop,0.86
+616,Gunna,hip-hop,0.87
+617,BigXthaPlug,hip-hop,0.83
+618,Jelly Roll,hip-hop,0.83
+619,Nicki Minaj,hip-hop,0.87
+620,A$AP Rocky,hip-hop,0.86
+621,Young Thug,hip-hop,0.86
+622,Lil Peep,hip-hop,0.85
+623,GloRilla,hip-hop,0.82
+624,Mac Miller,hip-hop,0.83
+625,Kodak Black,hip-hop,0.82
+626,Lil Durk,hip-hop,0.82
+627,Ty Dolla $ign,hip-hop,0.84
+628,Bryson Tiller,hip-hop,0.83
+629,JAY-Z,hip-hop,0.85
+630,The Kid LAROI,hip-hop,0.85
+631,Lil Yachty,hip-hop,0.81
+632,Pitbull,hip-hop,0.86
+633,Childish Gambino,hip-hop,0.81
+634,Snoop Dogg,hip-hop,0.84
+635,Tory Lanez,hip-hop,0.82
+636,NLE Choppa,hip-hop,0.8
+637,50 Cent,hip-hop,0.85
+638,USHER,hip-hop,0.83
+639,Daddy Yankee,hip-hop,0.87
+640,Wiz Khalifa,hip-hop,0.83
+641,Moneybagg Yo,hip-hop,0.77
+642,Kid Cudi,hip-hop,0.8
+643,DaBaby,hip-hop,0.8
+644,T-Pain,hip-hop,0.8
+645,Romeo Santos,hip-hop,0.85
+646,Dr. Dre,hip-hop,0.82
+647,NF,hip-hop,0.8
+648,2Pac,hip-hop,0.82
+649,Key Glock,hip-hop,0.77
+650,mgk,hip-hop,0.79
+651,Michael Bublé,jazz,0.79
+652,Leslie Odom Jr.,jazz,0.73
+653,"Earth, Wind & Fire",jazz,0.76
+654,Nat King Cole,jazz,0.74
+655,Dean Martin,jazz,0.73
+656,Norah Jones,jazz,0.75
+657,Otis Redding,jazz,0.72
+658,Louis Armstrong,jazz,0.72
+659,Etta James,jazz,0.72
+660,Ella Fitzgerald,jazz,0.7
+661,Sam Cooke,jazz,0.69
+662,A Tribe Called Quest,jazz,0.68
+663,Aretha Franklin,jazz,0.71
+664,Vince Guaraldi Trio,jazz,0.64
+665,Ray Charles,jazz,0.7
+666,Nina Simone,jazz,0.7
+667,Antônio Carlos Jobim,jazz,0.7
+668,Billie Holiday,jazz,0.67
+669,John Coltrane,jazz,0.67
+670,Nujabes,jazz,0.66
+671,berlioz,jazz,0.69
+672,Chet Baker,jazz,0.67
+673,Vince Guaraldi,jazz,0.6
+674,Stan Getz,jazz,0.67
+675,Dusty Springfield,jazz,0.69
+676,DJ Premier,jazz,0.66
+677,Cafe Music BGM channel,jazz,0.7
+678,BADBADNOTGOOD,jazz,0.65
+679,Tony Bennett,jazz,0.65
+680,Kenny G,jazz,0.66
+681,Miles Davis,jazz,0.65
+682,Bobby Darin,jazz,0.62
+683,GRiZ,jazz,0.58
+684,Tulus,jazz,0.76
+685,Bill Evans,jazz,0.64
+686,Kris Bowers,jazz,0.63
+687,Count Basie,jazz,0.64
+688,George Benson,jazz,0.66
+689,James Brown,jazz,0.64
+690,Tom Misch,jazz,0.66
+691,Quincy Jones,jazz,0.64
+692,"Grover Washington, Jr.",jazz,0.64
+693,Natalie Cole,jazz,0.64
+694,Eartha Kitt,jazz,0.6
+695,Caravan Palace,jazz,0.62
+696,João Gilberto,jazz,0.65
+697,Bonobo,jazz,0.64
+698,Jon Batiste,jazz,0.6
+699,Barry Can't Swim,jazz,0.65
+700,De La Soul,jazz,0.61
+701,Johann Sebastian Bach,classical,0.79
+702,Ludovico Einaudi,classical,0.8
+703,Wolfgang Amadeus Mozart,classical,0.77
+704,London Symphony Orchestra,classical,0.75
+705,Berliner Philharmoniker,classical,0.75
+706,Frédéric Chopin,classical,0.75
+707,Ludwig van Beethoven,classical,0.73
+708,Pyotr Ilyich Tchaikovsky,classical,0.71
+709,Joe Hisaishi,classical,0.71
+710,Antonio Vivaldi,classical,0.72
+711,Claude Debussy,classical,0.7
+712,Andrea Bocelli,classical,0.72
+713,Howard Shore,classical,0.69
+714,Johannes Brahms,classical,0.7
+715,Herbert von Karajan,classical,0.7
+716,Yo-Yo Ma,classical,0.67
+717,Erik Satie,classical,0.68
+718,Antônio Carlos Jobim,classical,0.7
+719,Wiener Philharmoniker,classical,0.69
+720,Academy of St. Martin in the Fields,classical,0.68
+721,Camille Saint-Saëns,classical,0.67
+722,Sir Simon Rattle,classical,0.66
+723,Gustavo Santaolalla,classical,0.66
+724,Sir Neville Marriner,classical,0.67
+725,George Frideric Handel,classical,0.67
+726,Jóhann Jóhannsson,classical,0.66
+727,Henry Smith,classical,0.66
+728,Sergei Rachmaninoff,classical,0.66
+729,Lang Lang,classical,0.65
+730,I Virtuosi Italiani,classical,0.68
+731,Alexis Ffrench,classical,0.65
+732,Edvard Grieg,classical,0.64
+733,Víkingur Ólafsson,classical,0.63
+734,Yiruma,classical,0.67
+735,Claudio Abbado,classical,0.66
+736,Nobuo Uematsu,classical,0.62
+737,Gabriel Fauré,classical,0.63
+738,Franz Liszt,classical,0.64
+739,Franz Schubert,classical,0.65
+740,Itzhak Perlman,classical,0.63
+741,Ólafur Arnalds,classical,0.65
+742,Leonard Bernstein,classical,0.62
+743,Daniel Barenboim,classical,0.64
+744,Antonín Dvořák,classical,0.63
+745,Jean-Yves Thibaudet,classical,0.6
+746,Felix Mendelssohn,classical,0.63
+747,New York Philharmonic,classical,0.61
+748,Harold Budd,classical,0.59
+749,Philip Glass,classical,0.61
+750,Trans-Siberian Orchestra,classical,0.55
