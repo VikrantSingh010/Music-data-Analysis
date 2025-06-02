@@ -18,7 +18,7 @@ This project performs the following steps:
    Fetches data from Spotify and Last.fm APIs and populates the database.
 
    ```bash
-   python db_creation.py
+   python db.py
    ```
 
 3. **Data Extraction & Preprocessing**
@@ -57,7 +57,7 @@ music-insights-project/
 ├── visualizations/
 │   └── visualizations.ipynb  # Notebook for EDA and visual storytelling
 │
-├── db_creation.py            # Script to insert API data into DB
+├── db.py            # Script to insert API data into DB
 ├── requirements.txt          # Python dependencies
 └── README.md
 ```
@@ -89,7 +89,7 @@ music-insights-project/
 * `pandas`, `os`, `SQLAlchemy`
 * External APIs: **Spotify**, **Last.fm**
 * Database: **MariaDB**
-* Visualization: `matplotlib`, `seaborn` (if used)
+* Visualization: `matplotlib`
 
 ---
 
